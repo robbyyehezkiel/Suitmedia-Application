@@ -11,7 +11,7 @@ cd Documents
 ```
 Use the **git clone command** followed by the URL you copied.
 ```
-git clone https://github.com/Calis-Top-10/CalisApp.git
+git clone https://github.com/robbyyehezkiel/Suitmedia-Application.git
 ```
 
 ## FEATURE
