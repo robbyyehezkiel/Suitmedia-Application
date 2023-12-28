@@ -15,6 +15,7 @@ git clone https://github.com/robbyyehezkiel/Suitmedia-Application.git
  1. Palindrome validation: Create and manage palindrome input forms to validate whether the input is a palindrome or not.
  2. API Handle: Implement API handle to show all users list with first & last name, email, avatar json parse.
  3. Screen Navigation: Implements intent data navigation from user input and also handles clicks
+ 4. Unit Testing: Testing for palindrome
 
 ## EXAM CRITERIA
 
