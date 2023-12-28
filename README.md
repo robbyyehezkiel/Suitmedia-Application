@@ -51,9 +51,10 @@ The Suitmedia Exam Flutter application is a mobile application that is included 
      - logger: ^2.0.2+1
 
 ## SCREENSHOT!
-[Screenshot_20231228_234336](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/61846dfb-bf09-4cc6-bdc4-be5206e07b7c)
-![Screenshot_20231228_234351](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/1b47eb65-7f57-4feb-9b68-9225bbb23585)
-![Screenshot_20231228_234319](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/afb94b14-2aea-4dad-a3ba-919f788ffe04)
-![Screenshot_20231228_234408](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/580a5743-8538-4847-beef-6dd13d144285)
-![Screenshot_20231228_234400](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/a84586b2-f1a0-43a3-b1ac-f2b83ea5e4d2)
-![Screenshot_20231228_234343](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/a4fe011a-fe54-473b-8fff-9e143a5e67ec)
+<img src="https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/61846dfb-bf09-4cc6-bdc4-be5206e07b7c" alt="Screenshot_20231228_234336" width="200">
+<img src="https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/1b47eb65-7f57-4feb-9b68-9225bbb23585" alt="Screenshot_20231228_234351" width="200">
+<img src="https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/afb94b14-2aea-4dad-a3ba-919f788ffe04" alt="Screenshot_20231228_234319" width="200">
+<img src="https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/580a5743-8538-4847-beef-6dd13d144285" alt="Screenshot_20231228_234408" width="200">
+<img src="https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/a84586b2-f1a0-43a3-b1ac-f2b83ea5e4d2" alt="Screenshot_20231228_234400" width="200">
+<img src="https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/a4fe011a-fe54-473b-8fff-9e143a5e67ec" alt="Screenshot_20231228_234343" width="200">
+
