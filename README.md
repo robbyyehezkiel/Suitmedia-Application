@@ -2,8 +2,8 @@
 The Suitmedia Exam Flutter application is a mobile application that is included in one of the selection criteria for prospective internship participants at the Merdeka Campus Batch 6: Mobile Developer Internship 2023 with Suitmedia partners. This application was built using Flutter with version 3.13
 
 ## INSTALLATION
-Go to the **<> Code** button and copy the project [link](https://github.com/Calis-Top-10/CalisApp.git) . <br>
-![image](https://github.com/Calis-Top-10/CalisApp/assets/89125601/4a05d16b-d699-40ae-baf2-d136c4607c67) <br>
+Go to the **<> Code** button and copy the project [link][(https://github.com/Calis-Top-10/CalisApp.git)](https://github.com/robbyyehezkiel/Suitmedia-Application) . <br>
+![Clone](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/7a1e8df3-3b68-46b1-b718-c3fa010d1cc8)<br>
 Open terminal or command prompt on your local machine. <br>
 Navigate to the directory where you want to clone the app. You can use the **cd** command to change directories. For example, to navigate to the "Documents" directory:
 ```
