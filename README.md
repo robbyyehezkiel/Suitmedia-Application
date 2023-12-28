@@ -5,10 +5,7 @@ The Suitmedia Exam Flutter application is a mobile application that is included 
 Go to the **<> Code** button and copy the project [link](https://github.com/robbyyehezkiel/Suitmedia-Application) . <br>
 ![Clone](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/7a1e8df3-3b68-46b1-b718-c3fa010d1cc8)<br>
 Open terminal or command prompt on your local machine. <br>
-Navigate to the directory where you want to clone the app. You can use the **cd** command to change directories. For example, to navigate to the "Documents" directory:
-```
-cd Documents
-```
+
 Use the **git clone command** followed by the URL you copied.
 ```
 git clone https://github.com/robbyyehezkiel/Suitmedia-Application.git
