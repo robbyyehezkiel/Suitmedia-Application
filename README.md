@@ -1,5 +1,3 @@
-![Screenshot_20231228_234336](https://github.com/robbyyehezkiel/Suitmedia-Application/assets/107051384/7ac9e9b9-cbef-41b7-8758-352c8bdfd89b)# MSIB-EXAM
-
 ## OVERVIEW
 The Suitmedia Exam Flutter application is a mobile application that is included in one of the selection criteria for prospective internship participants at the Merdeka Campus Batch 6: Mobile Developer Internship 2023 with Suitmedia partners. This application was built using Flutter with version 3.13
 
